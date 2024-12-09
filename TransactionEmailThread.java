@@ -41,7 +41,7 @@ public class TransactionEmailThread extends Thread{
 			properties.put("mail.smtp.host","smtp.gmail.com");
 			System.out.println("con1");
 			String username = "ascentisbank";
-			String password = "csmuiubvfybjxngx";
+			String password = "";
 			
 			Session session = Session.getInstance(properties,new Authenticator() 
 			{
