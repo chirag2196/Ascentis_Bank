@@ -13,3 +13,19 @@ HomeServlet.java
 All Transactions Page
 
 AllTransactions.java
+
+![Screenshot 2024-12-10 175405](https://github.com/user-attachments/assets/ec196e29-0c3b-4e80-baf5-ffefc1372d3c)
+
+Login Page
+
+LoginServlet.java
+
+
+![Screenshot 2024-12-10 175435](https://github.com/user-attachments/assets/7bb90e29-8800-48ba-ae8a-74fd859ea073)
+
+User Registration Page
+
+https://github.com/user-attachments/assets/ddbfaab6-672e-4a2b-9931-87c685f6a7f5
+
+Ascentis Bank Demo
+
